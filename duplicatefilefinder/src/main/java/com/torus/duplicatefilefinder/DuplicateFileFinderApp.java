@@ -4,7 +4,7 @@ package com.torus.duplicatefilefinder;
  * Hello world!
  *
  */
-public class App 
+public class DuplicateFileFinderApp 
 {
     public static void main( String[] args )
     {
